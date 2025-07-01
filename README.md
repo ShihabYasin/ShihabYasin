@@ -32,7 +32,7 @@ Natural language processing, DevOps.
 
 ## Industry Experience:
 
-**Current: Manager, DevSecOps (Robi Axiata Limited)**
+**Current: Manager, DevSecOps @ Robi Axiata Limited**
 * Govern Software Development scaling to 10M+ Users (of all ROBI solutions from Reddot Digital Limited & other Vendors), ensuring code quality, Security Compliance, Code Review, Penetration testing, data privacy. 
 * Implementing secure coding guidelines. Software Architectural Design, Microservices, SOLID, Agile.
 * Software Development Process improvement Eliminating gap between Software Industry best practices & existing in-house development practices. 
