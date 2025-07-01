@@ -32,7 +32,15 @@ Natural language processing, DevOps.
 
 ## Industry Experience:
 
-**Current: Senior Software Engineer @ TigerIT Bangladesh Ltd**
+**Current: Manager, DevSecOps (Robi Axiata Limited)**
+* Govern Software Development scaling to 10M+ Users (of all ROBI solutions from Reddot Digital Limited & other Vendors), ensuring code quality, Security Compliance, Code Review, Penetration testing, data privacy. 
+* Implementing secure coding guidelines. Software Architectural Design, Microservices, SOLID, Agile.
+* Software Development Process improvement Eliminating gap between Software Industry best practices & existing in-house development practices. 
+* Transformed business requirements into functional solutions, aligning cross-functional teams & optimizing Time-to-Market, Optimal Budget planning, reduced budget for Binge, HR4U, MyROBI etc.
+* Secured [“Special Recognition Awards”](https://axtcloud.sharepoint.com/sites/PCB4/SitePages/AWS-Generative-AI-Hackathon-Award-Announcement-2025.aspx?csf=1&web=1&e=FJOjzO&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTg4MjcuMjAxNTAiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&CID=98e1aaa1-50da-4000-6884-2f4455137eb0&cidOR=SPO) as team lead at “AWS Generative AI Hackathon By Axiata” in 2025.
+
+
+**Senior Software Engineer @ TigerIT Bangladesh Ltd**
 
 * Developed production pipeline for Speech Recognition, Multilingual Machine Translation, Text to Speech System. Improved Bengali Phoneme Transcription Standard, Language Modeling/Integration.
 * Developed [Commchat Android app's](https://web.archive.org/web/20220502095635/https://play.google.com/store/apps/details?id=com.ccp.comm&hl=en_US&gl=US) different ML/NLP & phonetic typing features.
